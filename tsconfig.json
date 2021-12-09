@@ -11,7 +11,7 @@
     "checkJs": true,
     "declaration": true,
     "sourceMap": true,
-    "outDir": "lib",
+    "outDir": "./",
     "rootDir": "src",
     "downlevelIteration": true,
     "strict": true,
